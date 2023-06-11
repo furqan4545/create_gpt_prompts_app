@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Motivation
+
+Created this project for fun learning. Shoutout to "Adrian" from Javascript Mastery for teaching this nextjs project in a wonderful way. Now I guess I will be creating my next projects in Nextjs. 
+
+If you want to reach out to me for any reason or to understand any part of code, you can find me on [LinkedIn](https://www.linkedin.com/in/furqan4545/). I won't reply immediately but I will reply for sure. Thanks again to Javascript Mastery for their amazing content and projects. 
+
+Here is the link of deployed webapp: [Project](https://find-gpt-prompts.vercel.app/)
+
+
 ## Getting Started
 
 First, run the development server:
